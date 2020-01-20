@@ -2,6 +2,8 @@
 
 Followed [a tutorial online](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript) from Mozilla.org
 
+Live Game - https://kevinosborn31.github.io/breakoutGame/
+
  * Added title and instructions
  * Cursor now disappears when enters the game window
  * Increased speed of ball
